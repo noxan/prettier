@@ -6,7 +6,7 @@ var deprecatedConfig = require("./deprecated");
 var defaults = {
   tabWidth: 2,
   printWidth: 80,
-  singleQuote: false,
+  singleQuote: true,
   trailingComma: "none",
   bracketSpacing: true,
   jsxBracketSameLine: false,
